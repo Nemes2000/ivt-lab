@@ -1,0 +1,17 @@
+1. teszt
+    firingMode = ALL, nincs egyikben sem torpedo
+
+2. teszt
+    firingMode = ALL, elsőben van csak torpedo
+
+3. teszt
+    firingMode = ALL, masodikban van csak torpedo
+
+4. teszt
+    firingMode = SINGLE, első üres a másodikban van
+
+5. teszt
+    firingMode = SINGLE, elsőben és a másodikban is van torpedo
+
+
+
